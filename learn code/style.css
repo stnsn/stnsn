@@ -1,2 +1,26 @@
 body {
-  }
+  margin: 0 auto;
+  height: 100%;
+  width: 100vw;
+}
+
+/*font-family: 'Nunito Sans', sans-serif;
+font-family: 'Yeseva One', cursive;*/
+
+
+.header {
+  max-width: 1440px;
+  height: 83px;
+  background-repeat: r;
+  background-color: black;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 11px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar {
+  text-decoration: none;
+  color: white;
+}
